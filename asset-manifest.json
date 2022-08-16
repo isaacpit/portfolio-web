@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.795d8fdb.css",
   "main.css.map": "static/css/main.795d8fdb.css.map",
-  "main.js": "static/js/main.d3d2c2e1.js",
-  "main.js.map": "static/js/main.d3d2c2e1.js.map",
+  "main.js": "static/js/main.202cacc9.js",
+  "main.js.map": "static/js/main.202cacc9.js.map",
   "static/media/amex1.png": "static/media/amex1.573f7b0a.png",
   "static/media/amex10.png": "static/media/amex10.bcc8dc14.png",
   "static/media/amex5.png": "static/media/amex5.e2396af2.png",
@@ -11,6 +11,7 @@
   "static/media/amexlogo.png": "static/media/amexlogo.07bc54fe.png",
   "static/media/chicago.jpg": "static/media/chicago.3b0ea00d.jpg",
   "static/media/city-streets.jpeg": "static/media/city-streets.d7c2d3aa.jpeg",
+  "static/media/ias-logo.jpg": "static/media/ias-logo.53df1f66.jpg",
   "static/media/img_avatar1.png": "static/media/img_avatar1.cec4ccb3.png",
   "static/media/la.jpg": "static/media/la.f2686b2a.jpg",
   "static/media/me_tamu.jpg": "static/media/me_tamu.4b808dcb.jpg",
